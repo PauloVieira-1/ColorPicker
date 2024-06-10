@@ -41,8 +41,8 @@
 .oblong_container {
     position: absolute;
     left: 44%;
-    top: 75%;
-    right: 50%;
+    top: 85%;
+    align-items: center;
     height: 50px;
     width: 200px;
     border-radius: 25px;
@@ -64,40 +64,61 @@
     color: #e1e1e1;
 }
 
+.oblong_background {
+    position: absolute;
+    left: 43.25%;
+    top: 84%;
+    height: 710px;
+    width: 220px;
+    border-radius: 35px;
+    background-color: #ffffff;
+}
+
 
 .color {
     position: absolute;
-    top: 70%;
+    top: 92%;
     right: 46.5%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     color: #4a4a4a;
+    margin: 5px;
 
 }
 
 .color_1{
     position: absolute;
     top: 76%;
-    right: 46.5%;
+    right: 55%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     color: #4a4a4a;
+    border-radius: 35px;
+    background-color:  #ffffff;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
+
 
 }
 
 .color_2{
     position: absolute;
     top: 76%;
-    right: 46.5%;
+    right: 25%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-    color: #4a4a4a;
+    border-radius: 35px;
+    background-color:  #ffffff;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
 
 }
 
@@ -110,6 +131,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     color: #4a4a4a;
+    border-radius: 35px;
+    background-color:  #ffffff;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
 
 }
 
@@ -122,6 +148,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     color: #4a4a4a;
+    border-radius: 35px;
+    background-color:  #ffffff;
+    padding: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
 
 }
 

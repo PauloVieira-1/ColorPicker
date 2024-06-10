@@ -1,6 +1,7 @@
 possible_chars = [0,1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
 
 const btn = document.getElementById("btn");
+
 const color_1 = document.querySelector(".color_1");
 const color_2 = document.querySelector(".color_2");
 const color_3 = document.querySelector(".color_3");
@@ -15,6 +16,7 @@ btn.addEventListener("click", function() {
     let hexValue_4 = "#"
 
     for (let i = 0; i < 6; i++) {
+        
         hexValue_1 += possible_chars[getRandomNumber()]
         hexValue_2 += possible_chars[getRandomNumber()]
         hexValue_3 += possible_chars[getRandomNumber()]
