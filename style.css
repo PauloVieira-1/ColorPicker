@@ -40,7 +40,7 @@
 
 .oblong_container {
     position: absolute;
-    left: 44%;
+    left: 43.5%;
     top: 85%;
     align-items: center;
     height: 50px;
@@ -55,7 +55,7 @@
 
 .oblong_container:hover {
     position: absolute;
-    left: 44%;
+    left: 43.5%;
     right: 50%;
     height: 50px;
     width: 200px;
@@ -66,7 +66,7 @@
 
 .oblong_background {
     position: absolute;
-    left: 43.25%;
+    left: 42.75%;
     top: 84%;
     height: 710px;
     width: 220px;
@@ -91,7 +91,7 @@
 .color_1{
     position: absolute;
     top: 76%;
-    right: 55%;
+    right: 47%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -109,7 +109,7 @@
 .color_2{
     position: absolute;
     top: 76%;
-    right: 25%;
+    right: 23%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -125,7 +125,7 @@
 .color_3{
     position: absolute;
     top: 76%;
-    right: 46.5%;
+    right: 35.5%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -142,7 +142,7 @@
 .color_4{
     position: absolute;
     top: 76%;
-    right: 46.5%;
+    right: 40.5%;
     text-align: center;
     background: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
